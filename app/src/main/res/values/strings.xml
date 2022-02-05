@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Stock Tracker</string>
+    <string name="pullStockButton">Pull Stock</string>
+    <string name="oreoBackground">Oreo Background</string>
+</resources>
